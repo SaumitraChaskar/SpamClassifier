@@ -1,1 +1,1 @@
-"# SpamClassifier" 
+Simple Spam classifier
